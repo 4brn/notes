@@ -35,6 +35,7 @@ mv <file> <newfile> # move or rename file
 rm <file> # remove file 
 rmdir <directory> # remove EMPTY directory
 
+
 ```
 
 ` | ` or pipe - allows the output on a command to be used in another command:
