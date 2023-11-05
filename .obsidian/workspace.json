@@ -11,8 +11,12 @@
             "id": "2d5f305d15b82c42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Useful_Stuff/Ultimate-Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "857f4d780265cff3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Useful_Stuff/Ultimate-Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Useful_Stuff/Ultimate-Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Useful_Stuff/Ultimate-Cheatsheet.md"
+              }
             }
           }
         ]
@@ -139,5 +155,27 @@
     }
   },
   "active": "2d5f305d15b82c42",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "Училище/Българската култура и европейския свят през XV - XVII век.md",
+    "Училище/Училище/Българската култура и европейския свят през XV - XVII век.md",
+    "Useful_Stuff/Ultimate-Cheatsheet.md",
+    "Cyber-Security/Linux/Commands.md",
+    "Cyber-Security/Linux/Linux Basics For Hackers.md",
+    "Programming/Navigation/050 Concepts.md",
+    "Programming/Navigation/040 Rust.md",
+    "Programming/Navigation/020 HTML.md",
+    "Programming/Navigation/010 JavaScript.md",
+    "Programming/Programming/Web Development/HTML/Comments.md",
+    "Programming/Programming/Web Development/HTML/Nesting.md",
+    "Programming/Programming/Web Development/HTML/Elements/form.md",
+    "Programming/Programming/Web Development/HTML/Elements/class.md",
+    "Programming/Programming/Web Development/HTML/Elements/button.md",
+    "Programming/Programming/Web Development/CSS/Style.md",
+    "Programming/Programming/Web Development/CSS/Box Model.md",
+    "Programming/Programming/Path to Master Programmer.md",
+    "Programming/Programming/Roadmap to February.md",
+    "Programming/Programming/Untitled.md",
+    "Programming/Programming/Attachments/Pasted image 20230103082230.png"
+  ]
 }
