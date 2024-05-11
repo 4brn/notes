@@ -1,4 +1,4 @@
-```
+```css
 <style> 
 	body { // element selector (currently it changes the whole body element.)
 		background-color: green;
@@ -8,7 +8,7 @@
 
 This is can be written in the *html* file.
 
-Usually CSS is witten on an seperate file (style.css). 
+Usually CSS is written on an separate file (style.css). 
 
 Look at *Link*:
 ```html

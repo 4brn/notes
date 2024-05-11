@@ -1,4 +1,3 @@
-
 ## Object Literal
 
 Literally writing down the entire object content.
@@ -12,7 +11,7 @@ const jonas = {
 };
 console.log(jonas);// prints everything (alphabetically).
 ```
-The Йonas object has 5 **properties**.
+The Jonas object has 5 **properties**.
 
 ## Getting a property out of an object
 

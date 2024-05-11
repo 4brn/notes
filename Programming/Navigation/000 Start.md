@@ -1,5 +1,0 @@
-- [[010 JavaScript]]
-- [[020 HTML]]
-- [[030 CSS]]
-- [[040 Rust]]
-- [[050 Concepts]]

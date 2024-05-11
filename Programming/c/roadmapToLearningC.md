@@ -1,4 +1,4 @@
-# RoadmapToLearningC
+# Roadmap To Learning C
 A list of recources to understanding computers and learning c
 
 1. Read Code: [The Hidden Language of Computer Hardware and Software](https://libgen.is/book/index.php?md5=C859BB779FE9CB6E58BA42DAAD92551A)

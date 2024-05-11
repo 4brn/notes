@@ -1,4 +1,3 @@
-
 ## Declaration
 ```javascript
 const arr = [1991, 1984, 2008, 2020];
@@ -22,13 +21,14 @@ Adds a element to the end of an array.
 ```javascript
 years.push(2030); // adds 2030 after the last element (2020)
 ```
+
 .push() could also return the length of the new array.
 ```javascript
 const newLength = years.push(2030); // newLenght = 5
 console.log(newLength); //prints out 5
 ```
 ### .unshift()
-Adds a element to the beggining of an array
+Adds a element to the begining of an array
 ```javascript
 years.unshift(1990); // adds 1990 to the beggining of the array
 ```

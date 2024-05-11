@@ -1,5 +1,4 @@
 *Automatic* [[Data Types|data type]] [[Type Conversion|conversion]] by JavaScript
-
 ### The - operator
 
 ```javascript

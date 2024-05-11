@@ -13,8 +13,8 @@ Paste Image here:
 | Offers privacy                                                       | VPN technology uses encryption to protect data. The data is understood only between devices it was being sent and is destined for. |
 | Offers anonymity                                                     |                                                                                                                                    |
 
-## VPN Techologies:
+## VPN Technologies:
 
 - [[PPP]]
 - [[PPTP]]
-- [[IPSec]]
+- [[Networking/Protocols/IPSec]]

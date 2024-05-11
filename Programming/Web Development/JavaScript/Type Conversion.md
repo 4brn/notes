@@ -1,4 +1,4 @@
-Manualy conversing the [[Data Types|data type]] of an variable.
+Manually conversing the [[Data Types|data type]] of an variable.
 ```javascript
 const inputYear = '1991';
 console.log(inputYear + 18); //prints 199118

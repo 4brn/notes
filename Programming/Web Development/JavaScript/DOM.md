@@ -4,7 +4,6 @@ Allows JavaScript to access HTML elements and styles to manipulate them.
 
 Simple Version: An exact representation of an HTML file in JavaScript; HTML and DOM are synced-> can be manipulated.
 
-
 - can change text
 - can change HTML attributes
 - can change CSS styles
@@ -29,7 +28,6 @@ document.querySelector('.classOfElement')
 Selects an element by based on classes`.message; .button; .randomElementClass; ...`
 
 NB! -> it selects the whole html element: `<p class="message"> Start guessing... </p> // An example`
-
 
 ##### .textContent
 Gets the text content of an element.

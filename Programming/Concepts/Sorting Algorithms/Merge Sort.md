@@ -1,11 +1,6 @@
 ## Complexity
 
 ***O(n.log(n))***
-
-
-
-
-
 ## Algorithm
 
 ### Java

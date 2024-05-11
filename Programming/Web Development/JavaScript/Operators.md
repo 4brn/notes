@@ -79,10 +79,6 @@ OR
 NOT
 
 ## Conditional (Ternary)
-
-The Ternary operator is considered as an EXPRESSION -> can be used in ![[Strings#Concatination#Template literals]]
-
-
 ```javascript
 const age = 23;
 age >= 18 ? console.log("I like to drink wine") : console.log("I like to drink water");
@@ -96,7 +92,7 @@ console.log(`I like to dring ${drink}`)
 
 ### Syntax:
 1. Condition
-	Starts with te condition (age >= 18).
+	Starts with the condition (age >= 18).
 2. If part
 	After the *?* symbol we write the *IF*(true) statement (*1* line only).
 3. Else part
