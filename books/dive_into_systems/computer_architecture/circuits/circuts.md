@@ -1,0 +1,6 @@
+- Digital circurs implement the **Instruction Set Architecture** (ISA).
+- Digital circuts are multilayered abstractions -> we don't care about how the cicut is built but just about it's inputs and outputs.
+- 3 main categories of circuts:
+	- Arithmetic/logic
+	- control
+	- storage

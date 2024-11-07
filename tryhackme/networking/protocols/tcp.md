@@ -38,7 +38,7 @@ Process used to *establish a connection* between two devices.
 
 Consists of 4 layers (Application (layer 7), Transport (layer 4), Internet, Network Interface).
 
-Information is added to each layer of the TCP model as the packet traverses it ([[Encapsulation]]).
+Information is added to each layer of the TCP model as the packet traverses it (encapsulation).
 
 **Decapsulation** - reverse of Encapsulation.
 
